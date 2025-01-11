@@ -1,0 +1,34 @@
+{
+  "perfiles": [
+    {
+      "nombre": "Ana López",
+      "profesion": "Diseñadora Gráfica",
+      "imagen": "images/image6.jpg",
+      "habilidades": ["Photoshop", "Illustrator", "InDesign"],
+      "categoria": "diseño",
+      "ubicacion": "la paz"
+    },
+    {
+      "nombre": "Carlos Méndez",
+      "profesion": "Desarrollador Web",
+      "imagen": "images/image5.jpg",
+      "habilidades": ["HTML", "CSS", "JavaScript"],
+      "categoria": "tecnologia",
+      "ubicacion": "cochabamba"
+    }
+  ],
+  "historias": [
+    {
+      "titulo": "Éxito en Startup",
+      "autor": "Ana López",
+      "imagen": "images/image6.jpg",
+      "descripcion": "Un gran proyecto donde unimos diseño y tecnología para crear algo increíble."
+    },
+    {
+      "titulo": "Colaboración Internacional",
+      "autor": "Carlos Méndez",
+      "imagen": "images/image5.jpg",
+      "descripcion": "Trabajar con Ana fue una experiencia enriquecedora, aprendimos y creamos juntos."
+    }
+  ]
+}

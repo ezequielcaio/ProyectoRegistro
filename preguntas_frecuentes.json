@@ -1,0 +1,154 @@
+[
+    {
+        "category": {
+            "es": "Cómo registrar ideas",
+            "en": "How to register ideas"
+        },
+        "questions": [
+            {
+                "question": {
+                    "es": "¿Cómo puedo registrar una idea?",
+                    "en": "How can I register an idea?"
+                },
+                "answer": {
+                    "es": "Para registrar una idea, complete el formulario en la sección de registro.",
+                    "en": "To register an idea, fill out the form in the registration section."
+                }
+            },
+            {
+                "question": {
+                    "es": "¿Cuántas ideas puedo registrar?",
+                    "en": "How many ideas can I register?"
+                },
+                "answer": {
+                    "es": "Puede registrar tantas ideas como desee.",
+                    "en": "You can register as many ideas as you want."
+                }
+            },
+            {
+                "question": {
+                    "es": "¿Puedo editar una idea después de registrarla?",
+                    "en": "Can I edit an idea after registering it?"
+                },
+                "answer": {
+                    "es": "Sí, puede editar ideas desde la tabla de ideas registradas.",
+                    "en": "Yes, you can edit ideas from the registered ideas table."
+                }
+            }
+        ]
+    },
+    {
+        "category": {
+            "es": "Privacidad de datos",
+            "en": "Data privacy"
+        },
+        "questions": [
+            {
+                "question": {
+                    "es": "¿Mis datos están protegidos?",
+                    "en": "Are my data protected?"
+                },
+                "answer": {
+                    "es": "Sí, cumplimos con las normativas de privacidad de datos.",
+                    "en": "Yes, we comply with data privacy regulations."
+                }
+            },
+            {
+                "question": {
+                    "es": "¿Quién tiene acceso a mis ideas registradas?",
+                    "en": "Who has access to my registered ideas?"
+                },
+                "answer": {
+                    "es": "Solo usted y los administradores autorizados pueden ver sus ideas.",
+                    "en": "Only you and authorized administrators can view your ideas."
+                }
+            },
+            {
+                "question": {
+                    "es": "¿Se comparten mis datos con terceros?",
+                    "en": "Are my data shared with third parties?"
+                },
+                "answer": {
+                    "es": "No, no compartimos su información con terceros.",
+                    "en": "No, we do not share your information with third parties."
+                }
+            }
+        ]
+    },
+    {
+        "category": {
+            "es": "Modificar una idea registrada",
+            "en": "Modify a registered idea"
+        },
+        "questions": [
+            {
+                "question": {
+                    "es": "¿Cómo puedo modificar una idea registrada?",
+                    "en": "How can I modify a registered idea?"
+                },
+                "answer": {
+                    "es": "Use el botón de edición en la tabla de ideas registradas.",
+                    "en": "Use the edit button in the registered ideas table."
+                }
+            },
+            {
+                "question": {
+                    "es": "¿Puedo eliminar una idea registrada?",
+                    "en": "Can I delete a registered idea?"
+                },
+                "answer": {
+                    "es": "Sí, puede eliminar una idea usando el botón de eliminar.",
+                    "en": "Yes, you can delete an idea using the delete button."
+                }
+            },
+            {
+                "question": {
+                    "es": "¿Puedo restaurar una idea eliminada?",
+                    "en": "Can I restore a deleted idea?"
+                },
+                "answer": {
+                    "es": "No, las ideas eliminadas no se pueden restaurar.",
+                    "en": "No, deleted ideas cannot be restored."
+                }
+            }
+        ]
+    },
+    {
+        "category": {
+            "es": "Consultas generales",
+            "en": "General inquiries"
+        },
+        "questions": [
+            {
+                "question": {
+                    "es": "¿A quién puedo contactar si tengo preguntas?",
+                    "en": "Who can I contact if I have questions?"
+                },
+                "answer": {
+                    "es": "Puede contactarnos a través de la sección de contacto.",
+                    "en": "You can contact us through the contact section."
+                }
+            },
+            {
+                "question": {
+                    "es": "¿Hay límites en el uso de la plataforma?",
+                    "en": "Are there limits on platform usage?"
+                },
+                "answer": {
+                    "es": "No, puede usar la plataforma libremente.",
+                    "en": "No, you can use the platform freely."
+                }
+            },
+            {
+                "question": {
+                    "es": "¿Es gratis registrar ideas?",
+                    "en": "Is it free to register ideas?"
+                },
+                "answer": {
+                    "es": "Sí, registrar ideas es completamente gratis.",
+                    "en": "Yes, registering ideas is completely free."
+                }
+            }
+        ]
+    }
+]

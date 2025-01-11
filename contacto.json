@@ -1,0 +1,113 @@
+[
+    {
+        "title": {
+            "es": "Sugerencias y Soporte",
+            "en": "Suggestions and Support"
+        },
+        "description": {
+            "es": "Envíanos tus sugerencias o solicita soporte técnico para resolver cualquier inconveniente.",
+            "en": "Send us your suggestions or request technical support to solve any issues."
+        },
+        "links": [
+            {
+                "text": {
+                    "es": "Enviar Sugerencia",
+                    "en": "Send Suggestion"
+                },
+                "url": "https://example.com/suggestions"
+            },
+            {
+                "text": {
+                    "es": "Soporte Técnico",
+                    "en": "Technical Support"
+                },
+                "url": "https://example.com/support"
+            }
+        ]
+    },
+    {
+        "title": {
+            "es": "Redes Sociales",
+            "en": "Social Media"
+        },
+        "description": {
+            "es": "Síguenos en nuestras redes sociales para estar al día con nuestras novedades.",
+            "en": "Follow us on social media to stay updated with our news."
+        },
+        "links": [
+            {
+                "text": {
+                    "es": "Facebook",
+                    "en": "Facebook"
+                },
+                "url": "https://facebook.com/example"
+            },
+            {
+                "text": {
+                    "es": "Twitter",
+                    "en": "Twitter"
+                },
+                "url": "https://twitter.com/example"
+            },
+            {
+                "text": {
+                    "es": "Instagram",
+                    "en": "Instagram"
+                },
+                "url": "https://instagram.com/example"
+            }
+        ]
+    },
+    {
+        "title": {
+            "es": "Atención al Cliente",
+            "en": "Customer Service"
+        },
+        "description": {
+            "es": "Contáctanos directamente para cualquier consulta o asistencia personalizada.",
+            "en": "Contact us directly for any inquiries or personalized assistance."
+        },
+        "links": [
+            {
+                "text": {
+                    "es": "Correo Electrónico",
+                    "en": "Email"
+                },
+                "url": "mailto:contact@example.com"
+            },
+            {
+                "text": {
+                    "es": "Chat en Vivo",
+                    "en": "Live Chat"
+                },
+                "url": "https://example.com/live-chat"
+            }
+        ]
+    },
+    {
+        "title": {
+            "es": "Reportar Problemas",
+            "en": "Report Issues"
+        },
+        "description": {
+            "es": "¿Encontraste un problema? Háznoslo saber para que podamos solucionarlo.",
+            "en": "Found an issue? Let us know so we can fix it."
+        },
+        "links": [
+            {
+                "text": {
+                    "es": "Formulario de Reporte",
+                    "en": "Report Form"
+                },
+                "url": "https://example.com/report"
+            },
+            {
+                "text": {
+                    "es": "Enviar un Correo",
+                    "en": "Send an Email"
+                },
+                "url": "mailto:report@example.com"
+            }
+        ]
+    }
+]

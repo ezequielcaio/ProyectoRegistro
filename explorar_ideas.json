@@ -1,0 +1,130 @@
+[
+    {
+        "title": {
+            "es": "Ideas más recientes",
+            "en": "Latest Ideas"
+        },
+        "description": {
+            "es": "Explora las ideas más innovadoras que hemos recopilado recientemente.",
+            "en": "Explore the most innovative ideas we've recently collected."
+        },
+        "content": [
+            {
+                "name": {
+                    "es": "Aplicación para ahorro de energía",
+                    "en": "Energy Saving App"
+                },
+                "details": {
+                    "es": "Una aplicación móvil para gestionar el consumo eléctrico en el hogar.",
+                    "en": "A mobile app to manage home electricity consumption."
+                }
+            },
+            {
+                "name": {
+                    "es": "Reciclaje inteligente",
+                    "en": "Smart Recycling"
+                },
+                "details": {
+                    "es": "Sistema de reciclaje que utiliza inteligencia artificial para clasificar residuos.",
+                    "en": "Recycling system using AI to sort waste."
+                }
+            }
+        ]
+    },
+    {
+        "title": {
+            "es": "Proyectos destacados",
+            "en": "Featured Projects"
+        },
+        "description": {
+            "es": "Proyectos destacados por su impacto y creatividad.",
+            "en": "Projects highlighted for their impact and creativity."
+        },
+        "content": [
+            {
+                "name": {
+                    "es": "Generador de energía eólica casero",
+                    "en": "DIY Wind Energy Generator"
+                },
+                "details": {
+                    "es": "Instrucciones para construir un generador eólico a bajo costo.",
+                    "en": "Instructions to build a low-cost wind energy generator."
+                }
+            },
+            {
+                "name": {
+                    "es": "Plataforma de educación online",
+                    "en": "Online Education Platform"
+                },
+                "details": {
+                    "es": "Plataforma que conecta a estudiantes con mentores de todo el mundo.",
+                    "en": "Platform connecting students with mentors worldwide."
+                }
+            }
+        ]
+    },
+    {
+        "title": {
+            "es": "Filtrar por categorías",
+            "en": "Filter by Categories"
+        },
+        "description": {
+            "es": "Encuentra ideas y proyectos por temáticas específicas.",
+            "en": "Find ideas and projects by specific themes."
+        },
+        "content": [
+            {
+                "name": {
+                    "es": "Tecnología",
+                    "en": "Technology"
+                },
+                "details": {
+                    "es": "Proyectos relacionados con innovación tecnológica.",
+                    "en": "Projects related to tech innovation."
+                }
+            },
+            {
+                "name": {
+                    "es": "Sostenibilidad",
+                    "en": "Sustainability"
+                },
+                "details": {
+                    "es": "Ideas para un futuro más sostenible.",
+                    "en": "Ideas for a more sustainable future."
+                }
+            }
+        ]
+    },
+    {
+        "title": {
+            "es": "Favoritos",
+            "en": "Favorites"
+        },
+        "description": {
+            "es": "Explora las ideas favoritas de la comunidad.",
+            "en": "Explore the community's favorite ideas."
+        },
+        "content": [
+            {
+                "name": {
+                    "es": "Huertos urbanos",
+                    "en": "Urban Gardens"
+                },
+                "details": {
+                    "es": "Iniciativas para crear huertos en espacios urbanos.",
+                    "en": "Initiatives to create gardens in urban spaces."
+                }
+            },
+            {
+                "name": {
+                    "es": "Cultura colaborativa",
+                    "en": "Collaborative Culture"
+                },
+                "details": {
+                    "es": "Proyectos que promueven el trabajo en equipo.",
+                    "en": "Projects promoting teamwork."
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+{
+    "es": {
+        "carousel": [
+            {
+                "title": "Los Proyectos más Exitoso",
+                "description": "Una idea innovadora que marcó la diferencia",
+                "media": "images/image1.jpeg",
+                "button_text": "Ver más",
+                "button_link": "#proyecto1"
+            },
+            {
+                "title": "Promociones",
+                "description": "No te pierdas las últimas ofertas y eventos",
+                "media": "images/image2.jpeg",
+                "button_text": "Ver ofertas",
+                "button_link": "#ofertas"
+            },
+            {
+                "title": "Video Promocional",
+                "description": "Descubre el potencial de nuestra plataforma",
+                "media": "videos/promocion.mp4",
+                "button_text": "Conoce más",
+                "button_link": "#video"
+            }
+        ],
+        "services": {
+            "title": "Nuestros Servicios",
+            "button_text": "Más información",
+            "items": [
+                {
+                    "icon": "bi-laptop",
+                    "title": "Innovación Digital",
+                    "description": "Explora ideas creativas y únicas para tu próximo proyecto colaborativo",
+                    "link": "#innovacion"
+                },
+                {
+                    "icon": "bi-people",
+                    "title": "Colaboración en Tiempo Real",
+                    "description": "Conecta con personas apasionadas y lleva tus ideas al siguiente nivel",
+                    "link": "#colaboracion"
+                },
+                {
+                    "icon": "bi-tools",
+                    "title": "Recursos Únicos",
+                    "description": "Encuentra herramientas y plataformas que impulsan la creatividad",
+                    "link": "#recursos"
+                }
+            ]
+        },
+        "featured": {
+            "title": "Lleva tus Proyectos al Siguiente Nivel",
+            "description": "Descubre cómo nuestra plataforma puede ayudarte a alcanzar tus objetivos de manera más eficiente",
+            "image": "images/image4.jpg",
+            "primary_button": {
+                "text": "Comenzar ahora",
+                "link": "#comenzar"
+            },
+            "secondary_button": {
+                "text": "Saber más",
+                "link": "#info"
+            }
+        },
+        "news": {
+            "title": "Noticias y Actualizaciones",
+            "read_more": "Leer más",
+            "items": [
+                {
+                    "title": "Actualización del Sistema",
+                    "description": "Hemos implementado nuevas funciones para mejorar tu experiencia",
+                    "link": "#actualizacion"
+                },
+                {
+                    "title": "Proyectos Destacados",
+                    "description": "Descubre los proyectos más innovadores creados por nuestra comunidad",
+                    "link": "#proyectos"
+                }
+            ]
+        },
+        "cta": {
+            "title": "¿Listo para Empezar?",
+            "description": "Únete a nuestra comunidad y comienza a crear proyectos increíbles",
+            "button_text": "Registrarse",
+            "button_link": "#registro"
+        }
+    },
+    "en": {
+        "carousel": [
+            {
+                "title": "Successful Project 1",
+                "description": "An innovative idea that made a difference",
+                "media": "images/image1.jpeg",
+                "button_text": "Learn more",
+                "button_link": "#project1"
+            },
+            {
+                "title": "Promotions",
+                "description": "Don't miss our latest offers and events",
+                "media": "images/image2.jpeg",
+                "button_text": "View offers",
+                "button_link": "#offers"
+            },
+            {
+                "title": "Promotional Video",
+                "description": "Discover the potential of our platform",
+                "media": "videos/promocion.mp4",
+                "button_text": "Watch now",
+                "button_link": "#video"
+            }
+        ],
+        "services": {
+            "title": "Our Services",
+            "button_text": "More information",
+            "items": [
+                {
+                    "icon": "bi-laptop",
+                    "title": "Digital Innovation",
+                    "description": "Explore creative and unique ideas for your next collaborative project",
+                    "link": "#innovation"
+                },
+                {
+                    "icon": "bi-people",
+                    "title": "Real-Time Collaboration",
+                    "description": "Connect with passionate people and take your ideas to the next level",
+                    "link": "#collaboration"
+                },
+                {
+                    "icon": "bi-tools",
+                    "title": "Unique Resources",
+                    "description": "Find tools and platforms that drive creativity",
+                    "link": "#resources"
+                }
+            ]
+        },
+        "featured": {
+            "title": "Take Your Projects to the Next Level",
+            "description": "Discover how our platform can help you achieve your goals more efficiently",
+            "image": "images/image4.jpg",
+            "primary_button": {
+                "text": "Get started",
+                "link": "#start"
+            },
+            "secondary_button": {
+                "text": "Learn more",
+                "link": "#info"
+            }
+        },
+        "news": {
+            "title": "News and Updates",
+            "read_more": "Read more",
+            "items": [
+                {
+                    "title": "System Update",
+                    "description": "We've implemented new features to improve your experience",
+                    "link": "#update"
+                },
+                {
+                    "title": "Featured Projects",
+                    "description": "Discover the most innovative projects created by our community",
+                    "link": "#projects"
+                }
+            ]
+        },
+        "cta": {
+            "title": "Ready to Start?",
+            "description": "Join our community and start creating amazing projects",
+            "button_text": "Sign up",
+            "button_link": "#signup"
+        }
+    }
+}

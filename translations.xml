@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <form-title>
+        <es>Registrar una Idea</es>
+        <en>Register an Idea</en>
+    </form-title>
+    <label-title>
+        <es>Título del proyecto</es>
+        <en>Project Title</en>
+    </label-title>
+    <label-description>
+        <es>Descripción del proyecto</es>
+        <en>Project Description</en>
+    </label-description>
+    <label-category>
+        <es>Categorías de interés</es>
+        <en>Categories of Interest</en>
+    </label-category>
+    <label-objectives>
+        <es>Objetivos principales</es>
+        <en>Main Objectives</en>
+    </label-objectives>
+    <label-files>
+        <es>Adjuntar archivos</es>
+        <en>Attach Files</en>
+    </label-files>
+    <submit-button>
+        <es>Registrar</es>
+        <en>Register</en>
+    </submit-button>
+    <table-title>
+        <es>Ideas Registradas</es>
+        <en>Registered Ideas</en>
+    </table-title>
+</translations>

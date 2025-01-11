@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>index.php</link>
+    </item>
+    <item>
+        <nombre>Registrar idea</nombre>
+        <link>registrar_idea.php</link>
+    </item>
+    <item>
+        <nombre>Explorar idea</nombre>
+        <link>explorar_ideas.php</link>
+    </item>
+    <item>
+        <nombre>Colaboradores</nombre>
+        <link>colaboradores.php</link>
+    </item>
+    <item>
+        <nombre>Recursos</nombre>
+        <link>recursos.php</link>
+    </item>
+    <item>
+        <nombre>Estadísticas</nombre>
+        <link>estadisticas.php</link>
+    </item>
+    <item>
+        <nombre>FAQ</nombre>
+        <link>preguntas_frecuentes.php</link>
+    </item>
+    <item>
+        <nombre>Contacto</nombre>
+        <link>contacto.php</link>
+    </item>
+</menu>

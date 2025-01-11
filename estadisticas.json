@@ -1,0 +1,96 @@
+{
+    "languages": [
+        { "code": "es", "name": "Español" },
+        { "code": "en", "name": "English" }
+    ],
+    "estadisticas": [
+        {
+            "title": {
+                "es": "Categorías más populares",
+                "en": "Most Popular Categories"
+            },
+            "items": [
+                {
+                    "nombre": {
+                        "es": "Tecnología",
+                        "en": "Technology"
+                    },
+                    "valor": "45%"
+                },
+                {
+                    "nombre": {
+                        "es": "Educación",
+                        "en": "Education"
+                    },
+                    "valor": "30%"
+                }
+            ]
+        },
+        {
+            "title": {
+                "es": "Participación por región",
+                "en": "Participation by Region"
+            },
+            "items": [
+                {
+                    "nombre": {
+                        "es": "América del Sur",
+                        "en": "South America"
+                    },
+                    "valor": "60%"
+                },
+                {
+                    "nombre": {
+                        "es": "Europa",
+                        "en": "Europe"
+                    },
+                    "valor": "25%"
+                }
+            ]
+        },
+        {
+            "title": {
+                "es": "Proyectos completados",
+                "en": "Completed Projects"
+            },
+            "items": [
+                {
+                    "nombre": {
+                        "es": "2022",
+                        "en": "2022"
+                    },
+                    "valor": "120 proyectos"
+                },
+                {
+                    "nombre": {
+                        "es": "2023",
+                        "en": "2023"
+                    },
+                    "valor": "150 proyectos"
+                }
+            ]
+        },
+        {
+            "title": {
+                "es": "Nivel de interacción",
+                "en": "Interaction Level"
+            },
+            "items": [
+                {
+                    "nombre": {
+                        "es": "Altísimo",
+                        "en": "Very High"
+                    },
+                    "valor": "85%"
+                },
+                {
+                    "nombre": {
+                        "es": "Moderado",
+                        "en": "Moderate"
+                    },
+                    "valor": "10%"
+                }
+            ]
+        }
+    ]
+}

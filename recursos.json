@@ -1,0 +1,57 @@
+{
+    "languages": [
+        { "code": "es", "name": "Español" },
+        { "code": "en", "name": "English" }
+    ],
+    "recursos": [
+        {
+            "title": {
+                "es": "Herramientas para Trabajo Colaborativo",
+                "en": "Tools for Collaborative Work"
+            },
+            "items": [
+                {
+                    "nombre": {
+                        "es": "Trello",
+                        "en": "Trello"
+                    },
+                    "descripcion": {
+                        "es": "Gestión de proyectos basada en tableros.",
+                        "en": "Board-based project management."
+                    },
+                    "link": "https://trello.com"
+                },
+                {
+                    "nombre": {
+                        "es": "Slack",
+                        "en": "Slack"
+                    },
+                    "descripcion": {
+                        "es": "Comunicación para equipos con integración de herramientas.",
+                        "en": "Team communication with tool integration."
+                    },
+                    "link": "https://slack.com"
+                }
+            ]
+        },
+        {
+            "title": {
+                "es": "Consejos de Gestión",
+                "en": "Management Tips"
+            },
+            "items": [
+                {
+                    "nombre": {
+                        "es": "Blog de Gestión",
+                        "en": "Management Blog"
+                    },
+                    "descripcion": {
+                        "es": "Artículos sobre cómo liderar equipos.",
+                        "en": "Articles on team leadership."
+                    },
+                    "link": "https://gestionblog.com"
+                }
+            ]
+        }
+    ]
+}
